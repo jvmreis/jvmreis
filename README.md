@@ -51,7 +51,7 @@
 <!-- Portfólio -->
 ## 🚀 Portfolio Highlights:
 - [nxp_interrupt_lesson](https://github.com/jvmreis/nxp_interrupt_lesson)
-- [nrf52840 with bluetooth mesh and embedded machine learning](https://github.com/jvmreis/bluetooth-mesh-mining)
+- [nrf52840 with embedded machine learning](https://github.com/jvmreis/nordic_nano_edge_ai)
 - [butterworth_low_pass_filter](https://github.com/jvmreis/butterworth_low_pass_filter)
 - [NBIOT BME68X: Gas Senso](https://github.com/jvmreis/BME68X-IAQ-driver-with-nRF9160)
 

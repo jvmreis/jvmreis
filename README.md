@@ -7,15 +7,16 @@
 
 <!-- Apresentação -->
 <p>
-  Hi 👋, I'm João Victor! An Electronic Product Developer specialized in embedded systems from Brazil.
+  Hi 👋, I'm João Victor! A versatile **Software Engineer** with experience in both **backend/cloud/AI development** and **embedded systems and electronic product development**.
 
-  - 🎓 I hold a double degree in Science and Information Engineering from UFABC, and a Mechatronics Technician certification from SENAI.
+  - 🎓 I hold a double degree in Science and Information Engineering (UFABC), and a technical certification in Mechatronics (SENAI).
 
-  - 🧠 I currently work as the Embedded Software at a Brazilian startup focused on full-cycle development of electronic products — from mechanics to firmware and production.
+  - 🚀 I work on **scalable backend development using Python (FastAPI)**, **AWS cloud integrations**, **RAG/LLM pipelines**, and **real-time monitoring systems** for corporate and industrial environments.
 
-  - 🔭 I'm passionate about embedded systems, Bluetooth communication, IoT, and the challenge of building reliable, low-power, and efficient devices.
+  - 🧑‍💻 I also have over 7 years of hands-on experience in **embedded firmware development**, **industrial communication protocols (BLE, MQTT, Modbus)**, **PCB design (Altium)**, and **embedded graphical user interfaces**.
+
+  - 🌍 I’ve worked on **international AI projects**, hackathons, workshops, and electronic product development from prototypes to manufacturing.
 </p>
-
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
@@ -50,6 +51,8 @@
 
 <!-- Portfólio -->
 ## 🚀 Portfolio Highlights:
+- [RAG open source project](https://github.com/KajcaK/engage-and-comply)
+- [Web site](https://github.com/jvmreis/webSite)
 - [nxp_interrupt_lesson](https://github.com/jvmreis/nxp_interrupt_lesson)
 - [nrf52840 with embedded machine learning](https://github.com/jvmreis/nordic_nano_edge_ai)
 - [butterworth_low_pass_filter](https://github.com/jvmreis/butterworth_low_pass_filter)
@@ -58,7 +61,16 @@
 
 
 ## 🔧 Skills
-
+### Artificial Intelligence, Backend & Cloud Development
+<div>
+  <img alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img alt="FastAPI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
+  <img alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/aws-color.png">
+  <img alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img alt="LangChain" height="30" width="40" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/langchain-color.png">
+  <img alt="LLMs" height="30" width="40" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/openai.png">
+</div>
 <!-- Programming Languages -->
 ### Programming Languages
 <div>
